@@ -1,3 +1,9 @@
   {% if post.featured_image %}
-  <img class="img-responsive" src="{{ post.featured_image }}" title="{{ post.title }}">
+  {% if post.type == 'mobile' %}
+  <img class="img-responsive mobile"  src="{{ post.featured_image }}" title="{{ post.title }}">
+  {% endif %}
+
+  {% if post.type == 'web' %}
+  <img class="img-responsive web"  src="{{ post.featured_image }}" title="{{ post.title }}">
+  {% endif %}
   {% endif %}

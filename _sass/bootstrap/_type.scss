@@ -296,3 +296,15 @@ address {
   font-style: normal;
   line-height: $line-height-base;
 }
+
+.userImage{
+  height: auto;
+  border-radius: 100%;
+  border: 5px solid black;
+  max-width: 50vw;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  padding-top: 10px;
+}

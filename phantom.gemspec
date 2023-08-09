@@ -3,7 +3,7 @@
 Gem::Specification.new do |spec|
   spec.name          = "phantom"
   spec.version       = "0.1.1"
-  spec.authors       = ["Jami Gibbs"]
+  spec.authors       = [""]
   spec.email         = ["jami0821@gmail.com"]
 
   spec.summary       = "Phantom Jekyll Theme"
@@ -17,4 +17,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "bundler", "~> 2.0"
   spec.add_development_dependency "rake", "~> 12.3"
   spec.add_development_dependency "jekyll-paginate-v2", "~> 2.0"
+  spec.add_development_dependency "webrick", "~> 1.8"
+  spec.add_development_dependency "kramdown-parser-gfm", "~> 1.1"
 end
