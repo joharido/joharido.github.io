@@ -19,4 +19,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "jekyll-paginate-v2", "~> 2.0"
   spec.add_development_dependency "webrick", "~> 1.8"
   spec.add_development_dependency "kramdown-parser-gfm"
+  spec.add_development_dependency "github-pages"
 end
