@@ -16,7 +16,7 @@
 title: "Hi! I'm Donya Johari"
 email: 'donyahjohari@gmail.com'
 description: "I'm a York University Computer Engineering alumni based in Toronto, Canada and former intern @ Apple, Slalom, RBC, and Sun Life"
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'Donya_Johari'
 github_username: 'Joharido'
