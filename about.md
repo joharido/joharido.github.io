@@ -8,7 +8,7 @@ permalink: /about/
 ![me](../img/me.JPG)
 
 <p align="center">
-I'm Software Engineer based out of Toronto, Canada! and I'm driven by a genuine passion for Web and Mobile Development. More specifically, I'm profficient in JavaScript/TypeScript, React, SwiftUI, Python, Java, Swift. My journey in this industry has been thrilling and exciting. My work is fueled by making a positive impact in the world and I thrive on the challenges that come with pushing boundaries.
+I'm a Software Engineer based out of Toronto, Canada! and I'm driven by a genuine passion for Web and Mobile Development. More specifically, I'm profficient in JavaScript/TypeScript, React, SwiftUI, Python, Java, Swift. My journey in this industry has been thrilling and exciting. My work is fueled by making a positive impact in the world and I thrive on the challenges that come with pushing boundaries.
 
 </p>
 
