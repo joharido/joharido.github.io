@@ -62,7 +62,9 @@ a {
 
 img {
   width: 100%;
-} 
+}
+
+img[alt=me] { width: 70%; height:auto; margin-left: 15%;}
 
 img.mobile{
   width:325px;
